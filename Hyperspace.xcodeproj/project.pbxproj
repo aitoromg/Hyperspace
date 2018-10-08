@@ -12,6 +12,8 @@
 		A1C3777A216BE66600F1DB4B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A1C37778216BE66600F1DB4B /* Main.storyboard */; };
 		A1C3777C216BE66800F1DB4B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A1C3777B216BE66800F1DB4B /* Assets.xcassets */; };
 		A1C3777F216BE66800F1DB4B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A1C3777D216BE66800F1DB4B /* LaunchScreen.storyboard */; };
+		A1C37787216BE6AB00F1DB4B /* space.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A1C37786216BE6AB00F1DB4B /* space.jpg */; };
+		A1C37789216BE6B700F1DB4B /* USSEnterprise.png in Resources */ = {isa = PBXBuildFile; fileRef = A1C37788216BE6B700F1DB4B /* USSEnterprise.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		A1C3777B216BE66800F1DB4B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A1C3777E216BE66800F1DB4B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A1C37780216BE66800F1DB4B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A1C37786216BE6AB00F1DB4B /* space.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = space.jpg; sourceTree = "<group>"; };
+		A1C37788216BE6B700F1DB4B /* USSEnterprise.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = USSEnterprise.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +58,8 @@
 		A1C37773216BE66600F1DB4B /* Hyperspace */ = {
 			isa = PBXGroup;
 			children = (
+				A1C37788216BE6B700F1DB4B /* USSEnterprise.png */,
+				A1C37786216BE6AB00F1DB4B /* space.jpg */,
 				A1C37774216BE66600F1DB4B /* AppDelegate.swift */,
 				A1C37776216BE66600F1DB4B /* ViewController.swift */,
 				A1C37778216BE66600F1DB4B /* Main.storyboard */,
@@ -122,6 +128,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A1C37789216BE6B700F1DB4B /* USSEnterprise.png in Resources */,
+				A1C37787216BE6AB00F1DB4B /* space.jpg in Resources */,
 				A1C3777F216BE66800F1DB4B /* LaunchScreen.storyboard in Resources */,
 				A1C3777C216BE66800F1DB4B /* Assets.xcassets in Resources */,
 				A1C3777A216BE66600F1DB4B /* Main.storyboard in Resources */,
